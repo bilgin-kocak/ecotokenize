@@ -144,7 +144,7 @@ const MintNFT: React.FC = () => {
           )}
           <Box my={2}>
             <Button type="submit" variant="contained" color="primary">
-              Verify Data
+              Tokenize Carbon Credits
             </Button>
             <Button
               variant="contained"
