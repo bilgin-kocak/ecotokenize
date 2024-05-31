@@ -1,0 +1,12 @@
+node_modules
+artifacts
+cache
+dist
+.env
+.DS_Store
+.keep
+coverage
+coverage.json
+.idea
+foundry-tests
+abi
